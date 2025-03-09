@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tpop.TPOP",
+      "sha256_cert_fingerprints": [
+        "FD:50:B8:16:9F:2B:4E:FB:6F:6D:7C:2D:D2:48:0D:3B:A4:27:86:6B:01:D0:8A:F9:F2:60:15:76:D4:DE:8B:95"
+      ]
+    }
+  }
+]
